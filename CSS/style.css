@@ -1,0 +1,31 @@
+/*TAG SELECTOR*/
+hr{
+    border-style: dotted none none;
+    border-color: #f4f9f9;
+    border-width: 5px;
+    width:8%;
+}
+body{
+    background-color: #c8c6a7;
+}
+h1{
+    color: #542e71;
+}
+/*classes are used to have same tag with different property*/
+/*CLASS SELECTOR*/
+.faceid{
+    width: 200px;
+    height: 200px;
+}
+/*ID SELECTOR*/
+#feedback{
+   margin-left:80%;
+   margin-top: 15%;
+   width: 200px;
+}
+img:hover{
+    
+    background-color:darkcyan;
+}
+
+
